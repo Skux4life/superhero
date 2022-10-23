@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">superhero</string>
+    <string name="hero1">Pretzel</string>
+    <string name="description1">Salty man who is an expert contortionist</string>
+    <string name="hero2">broski</string>
+    <string name="description2">your best friend</string>
+    <string name="hero3">Megaman</string>
+    <string name="description3">Megaman, you know who it is</string>
+    <string name="hero4">Postman</string>
+    <string name="description4">Everyday hero delivering your mail</string>
+    <string name="hero5">Princess Peach</string>
+    <string name="description5">Pretty and stuff</string>
+    <string name="hero6">Limpet</string>
+    <string name="description6">Can climb any surface</string>
+</resources>
